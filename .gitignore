@@ -2,3 +2,6 @@
 *pdf
 .vs/
 .vscode
+*.class
+*.pdb
+

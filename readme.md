@@ -25,3 +25,62 @@
 - Lua
 - Kotlin
 - PHP
+
+
+# Comandos úteis para compilar e testar
+
+## Python
+```
+python [arquivo]
+```
+
+## C
+```
+gcc [arquivo]
+```
+
+## C++
+```
+g++ [arquivo]
+```
+
+## Rust
+```
+rustc [arquivo]
+```
+
+## C#
+```
+csc [arquivo]
+```
+
+## Java
+```
+javac [arquivo]
+java [arquivo]
+```
+
+## Typescript
+```
+tsc [arquivo].ts
+node[arquivo].js
+```
+alternativa
+```
+ts-node [arquivo].ts
+```
+
+## Javascript
+```
+node [arquivo]
+```
+
+## Go
+```
+go run [arquivo]
+```
+
+## R
+```
+Rscript [arquivo]
+```
