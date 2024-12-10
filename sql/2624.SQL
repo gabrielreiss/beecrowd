@@ -1,0 +1,5 @@
+SELECT COUNT(cidade) FROM 
+SELECT DISTINCT CITY AS cidade FROM customers;
+
+
+COUNT(CITY) 
