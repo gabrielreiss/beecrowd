@@ -4,11 +4,12 @@
 
 [Perfil com estatísticas](https://judge.beecrowd.com/pt/users/statistics/421980)
 
-# Linguagens para aprender (prioridade)
-
+# Linguagens dominadas
 - Python
 - SQL
 - C#
+
+# Linguagens para aprender
 - C++
 - C
 - Rust
