@@ -4,4 +4,7 @@
 .vscode
 *.class
 *.pdb
+node_modules/
+*.json
+*.epub
 
